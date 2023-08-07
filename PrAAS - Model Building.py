@@ -14,18 +14,12 @@ from sklearn.metrics import accuracy_score
 
 
 # In[5]:
-
-
 # Load the data
 data = pd.read_csv('D:/Ml Project/PrAAS - Profession as a Service - Aspire Infolabs Hackathon/TraitsVsRole.csv')  # Replace 'your_data.csv' with the actual file name
 
 
 # In[6]:
-
-
 data.head()
-
-
 # In[7]:
 
 
